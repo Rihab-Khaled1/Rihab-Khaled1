@@ -23,4 +23,4 @@
 <br/>
 <h2 align="center">Youtube Video👨🏻‍💻</h2>
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/watch?v=dYaMvgPZfFk/1.jpg)](https://www.youtube.com/watch?v=dYaMvgPZfFk)
+
