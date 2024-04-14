@@ -1,16 +1,26 @@
-### Hi there 👋
+<div id="user-content-toc">
+  <ul align="center">
+    <summary><h1 style="display: inline-block">Hi 👋, I'm Rihab</h1></summary>
+  </ul>
+</div>
 
-<!--
-**Rihab-Khaled1/Rihab-Khaled1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨‍💻 Software Engineer sharing my journey and learning in technology.</br>
 
-Here are some ideas to get you started:
+- 🔭 Making video about Software Development on Youtube </br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Flutter </br>
+
+- 💬 Ask me about Web Development   </br>
+
+
+<h2 align="center">Technologies That I Know👨🏻‍💻</h2>
+<br/>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,php,git" />
+    <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,java,spring,firebase,mongodb,mysql,androidstudio" /><br>
+</div>
+
+<br/>
+<h2 align="center">Youtube Video👨🏻‍💻</h2>
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/watch?v=dYaMvgPZfFk/0.jpg)](https://www.youtube.com/watch?v=dYaMvgPZfFk)
