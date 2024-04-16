@@ -23,5 +23,5 @@
 <br/>
 <h2 align="center">Youtube Video👨🏻‍💻</h2>
 
-[![Tours and Travel](https://img.youtube.com/vi/dYaMvgPZfFk/? width="250"/0.jpg) ](https://www.youtube.com/watch?v=dYaMvgPZfFk)
+[![Tours and Travel](https://img.youtube.com/vi/dYaMvgPZfFk/0.jpg) ](https://www.youtube.com/watch?v=dYaMvgPZfFk)
 [![Ecommerce](https://img.youtube.com/vi/Wq72PiXzK7w/0.jpg)](https://www.youtube.com/watch?v=Wq72PiXzK7w)
