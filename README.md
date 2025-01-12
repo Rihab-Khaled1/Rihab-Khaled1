@@ -6,8 +6,6 @@
 
 - 👨‍💻 Software Engineer sharing my journey and learning in technology.</br>
 
-- 🔭 Making video about Software Development on Youtube </br>
-
 - 🌱 I’m currently learning Flutter </br>
 
 - 💬 Ask me about Web Development   </br>
@@ -19,9 +17,3 @@
     <img src="https://skillicons.dev/icons?i=react,angular,bootstrap,html,css,php,git" />
     <img src="https://skillicons.dev/icons?i=python,nodejs,javascript,java,spring,firebase,mongodb,mysql,androidstudio" /><br>
 </div>
-
-<br/>
-<h2 align="center">Youtube Video👨🏻‍💻</h2>
-
-[![Tours and Travel](https://img.youtube.com/vi/dYaMvgPZfFk/0.jpg) ](https://www.youtube.com/watch?v=dYaMvgPZfFk)
-[![Ecommerce](https://img.youtube.com/vi/Wq72PiXzK7w/0.jpg)](https://www.youtube.com/watch?v=Wq72PiXzK7w)
