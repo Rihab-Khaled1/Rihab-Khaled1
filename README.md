@@ -6,7 +6,7 @@
 
 - 👨‍💻 Software Engineer sharing my journey and learning in technology.</br>
 
-- 🌱 I’m currently learning Flutter </br>
+- 🌱 I’m currently learning Data Analyst </br>
 
 - 💬 Ask me about Web Development   </br>
 
